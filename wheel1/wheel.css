@@ -1,0 +1,98 @@
+#_1 {
+  /* fill: #ba4d4e; */
+
+  color: 151515;
+  /* background-color: 151515; */
+
+}
+
+#_2 {
+  fill: #1592e8;
+}
+
+#_3 {
+  fill: #14c187;
+}
+
+#_4 {
+  fill: #fc7800;
+}
+
+#_5 {
+  fill: #14c187;
+}
+
+#_6 {
+  fill: #1592e8;
+}
+
+#_7 {
+  fill: #ba4d4e;
+}
+
+#_8 {
+  fill: #1592e8;
+}
+
+#_9 {
+  fill: #14c187;
+}
+
+#_10 {
+  fill: #fc7800;
+}
+
+#_11 {
+  fill: #14c187;
+}
+
+#_12 {
+  fill: #1592e8;
+}
+
+.frame,
+.sticks {
+  fill: #fff;
+}
+
+.winIndicator {
+  fill: #fff;
+}
+
+.wheelMiddle {
+  fill: #fff;
+}
+
+body {
+  text-align: center;
+  margin: auto;
+  background-color: tomato;
+}
+
+.luckywheel {
+  margin: 40px auto;
+  width: 50%;
+  height: 50%;
+}
+
+.btn,
+.btn:visited {
+  font-weight: 800;
+  margin: 10px;
+  height: 40px;
+  width: 140px;
+  box-shadow: 4px 4px 20px 0 #cc4c45;
+  border-radius: 0;
+  border: 2px solid #000;
+  background-color: #fff;
+  color: #000;
+}
+
+.btn:hover,
+.btn:active {
+  color: #fff;
+  background-color: #000;
+  border: none;
+  text-decoration: none;
+  box-shadow: 4px 4px 5px 0 #cc4c45;
+}

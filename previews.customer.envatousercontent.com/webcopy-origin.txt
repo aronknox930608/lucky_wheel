@@ -1,0 +1,36 @@
+Uri: https://previews.customer.envatousercontent.com/files/400290983/index.html
+File Name: E:\Lucky-Wheel\previews.customer.envatousercontent.com\files\400290983\index.html
+Content Type: text/html
+
+Uri: https://previews.customer.envatousercontent.com/files/400290983/js/animCoins.js
+File Name: E:\Lucky-Wheel\previews.customer.envatousercontent.com\files\400290983\js\animCoins.js
+Content Type: application/javascript
+
+Uri: https://previews.customer.envatousercontent.com/files/400290983/js/phaser.js
+File Name: E:\Lucky-Wheel\previews.customer.envatousercontent.com\files\400290983\js\phaser.js
+Content Type: application/javascript
+
+Uri: https://previews.customer.envatousercontent.com/files/400290983/js/wheelGame.js
+File Name: E:\Lucky-Wheel\previews.customer.envatousercontent.com\files\400290983\js\wheelGame.js
+Content Type: application/javascript
+
+Uri: https://previews.customer.envatousercontent.com/files/400290983/js/wheel_config_ancient_8.js
+File Name: E:\Lucky-Wheel\previews.customer.envatousercontent.com\files\400290983\js\wheel_config_ancient_8.js
+Content Type: application/javascript
+
+Uri: https://previews.customer.envatousercontent.com/files/400290983/js/wheel_config_casual_10.js
+File Name: E:\Lucky-Wheel\previews.customer.envatousercontent.com\files\400290983\js\wheel_config_casual_10.js
+Content Type: application/javascript
+
+Uri: https://previews.customer.envatousercontent.com/files/400290983/js/wheel_config_china_6.js
+File Name: E:\Lucky-Wheel\previews.customer.envatousercontent.com\files\400290983\js\wheel_config_china_6.js
+Content Type: application/javascript
+
+Uri: https://previews.customer.envatousercontent.com/files/400290983/js/wheel_config_medieval_12.js
+File Name: E:\Lucky-Wheel\previews.customer.envatousercontent.com\files\400290983\js\wheel_config_medieval_12.js
+Content Type: application/javascript
+
+Uri: https://previews.customer.envatousercontent.com/files/400290983/js/wheel_config_pirates_16.js
+File Name: E:\Lucky-Wheel\previews.customer.envatousercontent.com\files\400290983\js\wheel_config_pirates_16.js
+Content Type: application/javascript
+
